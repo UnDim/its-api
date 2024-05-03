@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/undim/jts-api/issues"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "debug": "^4.3.4",
