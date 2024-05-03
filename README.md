@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
 
-<!-- [![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][https://github.com/UnDim/jts-api/issues]
-[![ISC License][license-shield]][LICENSE] -->
-[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.com/package/express)
+[![Contributors][contributors-shield]](CONTRIBUTING.md)
+[![Issues][issues-shield]](https://github.com/UnDim/jts-api/issues)
+[![ISC License][license-shield]](LICENSE)
+
 
 
 
