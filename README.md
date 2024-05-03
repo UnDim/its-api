@@ -2,11 +2,9 @@
 
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Issues][issues-shield]][https://github.com/UnDim/jts-api/issues]
+[![Features][features-shield]][https://github.com/UnDim/jts-api/issues]
+[![ISC License][license-shield]][LICENSE]
 
 
 
@@ -14,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/undim/jts-api">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://img.logoipsum.com/332.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">JTS-API</h3>
