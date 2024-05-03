@@ -218,11 +218,11 @@ Project Link: [https://github.com/undim/jts-api](https://github.com/undim/jts-ap
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/undim/jts-api.svg?style=for-the-badge
 [contributors-url]: https://github.com/undim/jts-api/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sodam/jts-api.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/undim/jts-api.svg?style=for-the-badge
 [forks-url]: https://github.com/undim/jts-api/network/members
-[stars-shield]: https://img.shields.io/github/stars/sodam/jts-api.svg?style=for-the-badge
-[stars-url]: https://github.com/undim/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jts-api/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/undim/jts-api.svg?style=for-the-badge
+[stars-url]: https://github.com/undim/jts-api/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jts-api/jts-api.svg?style=for-the-badge
 [issues-url]: https://github.com/undim/jts-api/issues
 [license-shield]: https://img.shields.io/github/license/undim/jts-api.svg?style=for-the-badge
 [license-url]: https://github.com/undim/jts-api/LICENSE
